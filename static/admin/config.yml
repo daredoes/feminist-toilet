@@ -1,15 +1,15 @@
 backend:
-  name: github
-  repo: daredoes/feminist-toilet
+  name: git-gateway
+  branch: master
 
 media_folder: static/img
 public_folder: /img
 
 collections:
   - name: 'author'
-    label: 'Authors'
-    folder: 'src/pages/authors'
-    create: true
+    label: 'Author'
+    folder: 'src/pages/author'
+    create: false
     fields:
       - {
           label: 'Template Key',
