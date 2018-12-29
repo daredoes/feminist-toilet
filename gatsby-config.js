@@ -3,6 +3,9 @@ module.exports = {
 		title: 'The Feminist Toilet',
 		description: 'Freedom, and self-expression.',
 	},
+	mapping: {
+		'MarkdownRemark.frontmatter.author': `MarkdownRemark.frontmatter.name`,
+	},
 	plugins: [
 		'gatsby-plugin-react-helmet',
 		'gatsby-plugin-sass',

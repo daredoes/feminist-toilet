@@ -55,6 +55,7 @@ exports.createPages = ({ actions, graphql }) => {
 
 		authors.forEach(edge => {
 			const id = edge.node.id;
+
 			createPage({
 				path: edge.node.fields.slug,
 				component: path.resolve(
