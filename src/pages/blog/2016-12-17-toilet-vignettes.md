@@ -13,80 +13,80 @@ author: Daniel Evans
 
 ---
 
-    i asked her to cut off my finger
+i asked her to cut off my finger
 
-    standing at the entry way or was it exit
+standing at the entry way or was it exit
 
-    watching her ride down the east london road perched atop a metallic bike rack
+watching her ride down the east london road perched atop a metallic bike rack
 
-    foreheads touching i mumbled
+foreheads touching i mumbled
 
-    we entwined on the couch, Rod of Asclepius
+we entwined on the couch, Rod of Asclepius
 
-    harmless snake or more cliche;
+harmless snake or more cliche;
 
-    serpent imploring to taste the fruit of knowledge
+serpent imploring to taste the fruit of knowledge
 
-    was the snake satisfied having catalyzed the fall
+was the snake satisfied having catalyzed the fall
 
-    was eve made better
+was eve made better
 
-    gaze demanding she cut his finger
+gaze demanding she cut his finger
 
-    save him from playlists encumbered by love songs
+save him from playlists encumbered by love songs
 
-    mind consumed by alternative hypotheses
+mind consumed by alternative hypotheses
 
-    naive expectations of a future apart
+naive expectations of a future apart
 
-    her vacant stare past fabric stores
+her vacant stare past fabric stores
 
-    creaky bike chirping flanked by chicken shops
+creaky bike chirping flanked by chicken shops
 
-    she cant or she wont
+she cant or she wont
 
 ###### ii.
 
 ---
 
-    she did that stupid thing
+she did that stupid thing
 
-    ive seen it in the movies
+ive seen it in the movies
 
-    while i helped her with her spreadsheet
+while i helped her with her spreadsheet
 
-    of all things
+of all things
 
-    she resting her body against mine
+she resting her body against mine
 
-    as a lover
+as a lover
 
-    leg delicately weighing non-attached
+leg delicately weighing non-attached
 
-    is it her nakedness that consumes me?
+is it her nakedness that consumes me?
 
-    my romanticized crywank.
+my romanticized crywank.
 
-    my friend, ascribed meaning where there was none.
+my friend, ascribed meaning where there was none.
 
-    im sad to know (youre leaving). and leaving me with the lovecraftian horrors.
+im sad to know (youre leaving). and leaving me with the lovecraftian horrors.
 
-    and our adventures on bikes threatening to fall apart.
+and our adventures on bikes threatening to fall apart.
 
-    rattling down dirt paths and cobblestones.
+rattling down dirt paths and cobblestones.
 
-    already i commemorate these in marble monoliths to future gods.
+already i commemorate these in marble monoliths to future gods.
 
-    we pause to think on time at south bank gallery.
+we pause to think on time at south bank gallery.
 
-    surrounded by wellcome and neon paint.
+surrounded by wellcome and neon paint.
 
-    love or in love; chaos limerence; chaos vagina
+love or in love; chaos limerence; chaos vagina
 
-    crowds out my decision to love.
+crowds out my decision to love.
 
-    reveals youth.
+reveals youth.
 
-    which is why i cannot love.
+which is why i cannot love.
 
-    only be in love
+only be in love

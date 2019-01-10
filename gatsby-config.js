@@ -59,6 +59,7 @@ module.exports = {
 						},
 					},
 				],
+				excerpt_separator: `<!-- end -->`,
 			},
 		},
 		{
