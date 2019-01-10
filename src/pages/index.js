@@ -26,6 +26,15 @@ export default class IndexPage extends React.Component {
 										{post.frontmatter.title}
 									</Link>
 									<span> &bull; </span>
+									{post.frontmatter.author && (
+										<Link
+											className='has-text-secondary'
+											to={post.frontmatter.author.fields.slug}
+										>
+											{post.frontmatter.author.frontmatter.name}{' '}
+										</Link>
+									)}
+									{post.frontmatter.author && <span> &bull; </span>}
 									<small>{post.frontmatter.date}</small>
 								</p>
 								<p>
@@ -35,18 +44,6 @@ export default class IndexPage extends React.Component {
 									<Link className='button is-small' to={post.fields.slug}>
 										Keep Reading →
 									</Link>
-									{post.frontmatter.author && (
-										<div>
-											<br />
-											<Link
-												className='button is-small'
-												to={post.frontmatter.author.fields.slug}
-											>
-												Read more by {post.frontmatter.author.frontmatter.name}{' '}
-												→
-											</Link>
-										</div>
-									)}
 								</p>
 							</div>
 						))}
