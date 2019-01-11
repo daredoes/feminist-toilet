@@ -10,7 +10,7 @@ export const AuthorPageTemplate = ({ name, twitterHandle, posts }) => {
 			<div className='container content'>
 				<div className='columns'>
 					<div className='column is-10 is-offset-1'>
-						<h1 className='title is-size-2 has-text-weight-bold is-bold-light'>
+						<h1 className='title-font is-size-2 has-text-weight-bold is-bold-light'>
 							{name}
 						</h1>
 						<p>{twitterHandle}</p>

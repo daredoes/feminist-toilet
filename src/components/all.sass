@@ -3,12 +3,18 @@
 
 // Config vars
 // Kalidi logo brand color: #FD461E
-$kaldi-red: #D64000
+$kaldi-red: #830d35
 $kaldi-red-invert: #fff
+
+$toilet-pink: #EC407A
 
 $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
+$link: $toilet-pink
+
+.title-font
+  font-family: 'Archistico Bold'
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -18,7 +24,7 @@ $body-color: #333
   font-size: 1.5em
   
 .navbar-brand .navbar-item
-  font-family: 'Archistico Bold'
+  @extend .title-font
   font-size: 2em
 
 .content .taglist
@@ -54,7 +60,11 @@ $body-color: #333
   margin-top: 0 !important
 
 .post
-  font-family: "Oswald Light"
+  font-family: "Caviar Dreams Bold"
+
+.post-info
+  font-family: "Oswald"
+  font-size: 1.25em
 
 .siteBackground
   background-image: url("patterns/diamond_upholstery.png")

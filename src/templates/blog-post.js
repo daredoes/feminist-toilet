@@ -23,17 +23,17 @@ export const BlogPostTemplate = ({
 			<div className='container content'>
 				<div className='columns'>
 					<div className='column is-10 is-offset-1'>
-						<h1 className='title is-size-2 has-text-weight-bold is-bold-light'>
+						<h1 className='title-font is-size-2 has-text-weight-bold is-bold-light'>
 							{title}
 						</h1>
 						{author && (
-							<h4 className='title is-size-5 has-text-weight-bold is-bold-light'>
+							<h4 className='post-info is-size-5 has-text-weight-bold is-bold-light'>
 								By{' '}
 								<Link to={author.fields.slug}>{author.frontmatter.name}</Link>
 							</h4>
 						)}
-						<p>{description}</p>
-						<PostContent content={content} />
+						<hr/>
+						<PostContent content={content} className="post" />
 						{tags && tags.length ? (
 							<div style={{ marginTop: `4rem` }}>
 								<h4>Tags</h4>
