@@ -12,38 +12,35 @@ export default class IndexPage extends React.Component {
 			<Layout>
 				<section className='section'>
 					<div className='container'>
-						<div className='content'>
-							<h1 className='title-font has-text-centered has-text-weight-bold is-size-1'>The Toilet Papers</h1>
+						<div className='content is-marginless'>
+							<h1 className='title-font has-text-centered has-text-weight-bold is-size-1 is-marginless'>The Toilet Papers</h1>
 						</div>
 						{posts.map(({ node: post }) => (
 							<div
-								className='content postContent'
+								className='content postContent is-marginless'
 								key={post.id}
 							>
-								<p className="post-info">
-									<Link className='has-text-primary' to={post.fields.slug}>
+								<p className="post-header is-marginless">
+								<Link className='' to={post.fields.slug}>
 										{post.frontmatter.title}
-									</Link>
-									<span> &bull; </span>
-									{post.frontmatter.author && (
+									</Link></p>
+								{post.frontmatter.description && <p className="post">
+									{post.frontmatter.description}
+								</p>}
+								<p className="post-info">
+								<span>By </span>
+									{post.frontmatter.author ? (
 										<Link
 											className='has-text-secondary'
 											to={post.frontmatter.author.fields.slug}
 										>
 											{post.frontmatter.author.frontmatter.name}{' '}
 										</Link>
-									)}
+									): <span>Anonymous</span>}
 									{post.frontmatter.author && <span> &bull; </span>}
 									<small>{post.frontmatter.date}</small>
 								</p>
-								<p className="post">
-									{post.frontmatter.description || post.excerpt}
-									<br />
-									<br />
-									<Link className='button is-small' to={post.fields.slug}>
-										Keep Reading →
-									</Link>
-								</p>
+								
 							</div>
 						))}
 					</div>
