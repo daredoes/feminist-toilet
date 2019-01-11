@@ -37,7 +37,6 @@ exports.createPages = ({ actions, graphql }) => {
 						}
 						frontmatter {
 							name
-							twitterHandle
 							templateKey
 						}
 					}
@@ -53,20 +52,6 @@ exports.createPages = ({ actions, graphql }) => {
 		const posts = result.data.postMarkdownRemark.edges;
 		const authors = result.data.authorMarkdownRemark.edges;
 
-		authors.forEach(edge => {
-			const id = edge.node.id;
-
-			createPage({
-				path: edge.node.fields.slug,
-				component: path.resolve(
-					`src/templates/${String(edge.node.frontmatter.templateKey)}.js`
-				),
-				context: {
-					id,
-				},
-			});
-		});
-
 		posts.forEach(edge => {
 			const id = edge.node.id;
 			createPage({
@@ -76,6 +61,20 @@ exports.createPages = ({ actions, graphql }) => {
 					`src/templates/${String(edge.node.frontmatter.templateKey)}.js`
 				),
 				// additional data can be passed via context
+				context: {
+					id,
+				},
+			});
+		});
+
+		authors.forEach(edge => {
+			const id = edge.node.id;
+
+			createPage({
+				path: edge.node.fields.slug,
+				component: path.resolve(
+					`src/templates/${String(edge.node.frontmatter.templateKey)}.js`
+				),
 				context: {
 					id,
 				},
