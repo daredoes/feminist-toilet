@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Toilet Ghost '
 date: 2019-01-11T06:01:12.274Z
+description: "A poem about toilets"
 tags:
   - poem
 author: Rochelle Roberts

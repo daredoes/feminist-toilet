@@ -1,4 +1,5 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import "fonts.sass"
 
 // Config vars
 // Kalidi logo brand color: #FD461E
@@ -11,6 +12,14 @@ $body-color: #333
 
 .navbar .navbar-menu
   box-shadow:none !important
+
+.navbar-item
+  font-family: 'Oswald Light'
+  font-size: 1.5em
+  
+.navbar-brand .navbar-item
+  font-family: 'Archistico Bold'
+  font-size: 2em
 
 .content .taglist
   list-style: none
@@ -43,5 +52,29 @@ $body-color: #333
 
 .margin-top-0
   margin-top: 0 !important
+
+.post
+  font-family: "Oswald Light"
+
+.siteBackground
+  background-image: url("patterns/diamond_upholstery.png")
+
+html
+  @extend .siteBackground
+  
+
+.containerBackground
+  background: url("patterns/diamond_eyes.png")
+
+.navbar
+  @extend .containerBackground
+
+.content
+  @extend .containerBackground
+  border: 1px solid #333
+  border-bottom: 1px dashed #333
+  border-top: 1px dashed #333
+  padding: 2em 4em
+  margin-bottom: 0 !important
 
 @import "~bulma"
