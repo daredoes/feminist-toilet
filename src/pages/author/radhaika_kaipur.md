@@ -1,6 +1,6 @@
 ---
 templateKey: author-page
-name: Radhaika  Kaipur
+name: Radhaika Kaipur
 twitterHandle:
 email: 'radhaikakapur@gmail.com'
 ---

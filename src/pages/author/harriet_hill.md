@@ -1,6 +1,6 @@
 ---
 templateKey: author-page
-name: Harriet  Hill
+name: Harriet Hill
 twitterHandle:
 email: 'harrietlhill@gmail.com'
 ---
