@@ -23,7 +23,7 @@ collections:
           label: 'Twitter Handle',
           name: 'twitterHandle',
           widget: 'string',
-          required: 'false',
+          required: false,
           pattern: '^@?(\w){1,15}$',
         }
 
@@ -40,16 +40,16 @@ collections:
           default: 'blog-post',
         }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'image', required: 'false' }
+      - { label: 'Image', name: 'image', widget: 'image', required: false }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - {
           label: 'Description',
           name: 'description',
           widget: 'text',
-          required: 'false',
+          required: false,
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Tags', name: 'tags', widget: 'list', required: 'false' }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false }
       - {
           label: 'Post Author',
           name: 'author',
@@ -57,7 +57,7 @@ collections:
           collection: 'author',
           searchFields: ['name', 'twitterHandle', 'email'],
           valueField: 'name',
-          required: 'false',
+          required: false,
           displayFields: ['name', 'email', 'twitterHandle'],
         }
 
