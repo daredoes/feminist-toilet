@@ -7,13 +7,14 @@ export default class IndexPage extends React.Component {
 	render() {
 		const { data } = this.props;
 		const { edges: posts } = data.allMarkdownRemark;
+		const { title, description } = data.site.siteMetadata;
 
 		return (
 			<Layout>
 				<section className='section'>
 					<div className='container'>
 						<div className='content is-marginless'>
-							<h1 className='title-font has-text-centered has-text-weight-bold is-size-1 is-marginless'>The Toilet Papers</h1>
+							<div className='post has-text-centered'>{description}</div>
 						</div>
 						{posts.map(({ node: post }) => (
 							<div
@@ -63,11 +64,18 @@ IndexPage.propTypes = {
 		allMarkdownRemark: PropTypes.shape({
 			edges: PropTypes.array,
 		}),
+		site: PropTypes.object,
 	}),
 };
 
 export const pageQuery = graphql`
 	query IndexQuery {
+		site {
+			siteMetadata {
+				title,
+				description,
+			}
+		}
 		allMarkdownRemark(
 			sort: { order: DESC, fields: [frontmatter___date] }
 			filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
