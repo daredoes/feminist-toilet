@@ -3,8 +3,6 @@ templateKey: 'about-page'
 path: /about
 title: Toilets are the ultimate feminists. 
 ---
-# Toilets are the ultimate feminists. 
-
 Tell me one person you know
 that doesn't shit. Exactly. Everyone has experiences with toilets. 
 They are liminal spaces where society meets humanity - where

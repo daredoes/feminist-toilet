@@ -4,7 +4,6 @@ import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 
 export const AuthorPageTemplate = ({ name, twitterHandle, posts }) => {
-	console.log(posts);
 	return (
 		<section className='section'>
 			<div className='container content'>
