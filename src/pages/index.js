@@ -37,8 +37,6 @@ export default class IndexPage extends React.Component {
 											{post.frontmatter.author.frontmatter.name}{' '}
 										</Link>
 									): <span>Anonymous</span>}
-									{post.frontmatter.author && <span> &bull; </span>}
-									<small>{post.frontmatter.date}</small>
 								</p>
 								
 							</div>

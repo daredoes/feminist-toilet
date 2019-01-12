@@ -1,6 +1,6 @@
 module.exports = {
 	siteMetadata: {
-		title: 'The Feminist Toilet',
+		title: 'Feminist Toilet',
 		description: 'Freedom, and self-expression.',
 	},
 	mapping: {
