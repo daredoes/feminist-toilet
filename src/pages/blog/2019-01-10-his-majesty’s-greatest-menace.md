@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: His Majesty’s Greatest Menace
 date: 2019-01-11T05:42:12.277Z
+image:
 tags:
   - poem
 author: Matt Magee

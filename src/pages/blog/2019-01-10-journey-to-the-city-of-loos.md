@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: JOURNEY TO THE CITY OF LOOS
 date: 2019-01-11T05:44:41.806Z
+image:
 description: If Bazalgette hadn’t given in to bricks!
 tags:
   - poem loos

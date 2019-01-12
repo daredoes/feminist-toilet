@@ -17,27 +17,37 @@ export default class IndexPage extends React.Component {
 						</div>
 						{posts.map(({ node: post }) => (
 							<div
-								className='content postContent is-marginless'
+								className='content postContent is-marginless columns'
 								key={post.id}
 							>
-								<p className="post-header is-marginless">
-								<Link className='' to={post.fields.slug}>
-										{post.frontmatter.title}
-									</Link></p>
-								{post.frontmatter.description && <p className="post">
-									{post.frontmatter.description}
-								</p>}
-								<p className="post-info">
-								<span>By </span>
-									{post.frontmatter.author ? (
-										<Link
-											className='has-text-secondary'
-											to={post.frontmatter.author.fields.slug}
-										>
-											{post.frontmatter.author.frontmatter.name}{' '}
-										</Link>
-									): <span>Anonymous</span>}
-								</p>
+								{post.frontmatter.image && (
+									<div className='column image-holder'>
+										<figure className='image'>
+											<img className="post-image" src={post.frontmatter.image.publicURL} />
+										</figure>
+									</div>
+								)}
+								<div className='column'>
+									<p className="post-header is-marginless">
+									<Link className='' to={post.fields.slug}>
+											{post.frontmatter.title}
+										</Link></p>
+									
+									{post.frontmatter.description && <p className="post">
+										{post.frontmatter.description}
+									</p>}
+									<p className="post-info">
+									<span>By </span>
+										{post.frontmatter.author ? (
+											<Link
+												className='has-text-secondary'
+												to={post.frontmatter.author.fields.slug}
+											>
+												{post.frontmatter.author.frontmatter.name}{' '}
+											</Link>
+										): <span>Anonymous</span>}
+									</p>
+								</div>
 								
 							</div>
 						))}
@@ -72,6 +82,9 @@ export const pageQuery = graphql`
 					frontmatter {
 						title
 						templateKey
+						image {
+							publicURL
+						}
 						date(formatString: "MMMM DD, YYYY")
 						description
 						author {
