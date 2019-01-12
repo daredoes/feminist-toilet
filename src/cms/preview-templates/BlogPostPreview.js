@@ -8,7 +8,7 @@ const BlogPostPreview = ({ entry, widgetFor }) => (
     description={entry.getIn(['data', 'description'])}
     tags={entry.getIn(['data', 'tags'])}
     title={entry.getIn(['data', 'title'])}
-    author={{frontmatter: {name: entry.getIn(['data', 'author'])}}}
+    author={{fields: {slug: ''}, frontmatter: {name: entry.getIn(['data', 'author'])}}}
   />
 )
 
