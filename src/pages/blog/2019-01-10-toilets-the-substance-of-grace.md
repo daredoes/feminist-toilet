@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: 'Toilets: The Substance Of Grace'
-image:
 date: 2019-01-11T06:09:39.232Z
+description: Prose
 tags:
   - text
 author: Daniel Tiernan
