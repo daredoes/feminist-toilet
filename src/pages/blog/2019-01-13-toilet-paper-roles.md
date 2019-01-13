@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Toilet Paper Roles
 date: 2019-01-13T20:56:14.910Z
 description: Poem
-author: ' Leon Schlossberg'
+author: Leon Schlossberg
 ---
 She leaves empty toilet paper rolls,
 
