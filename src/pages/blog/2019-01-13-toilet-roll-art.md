@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Toilet Roll Art
 image: /img/toiletroll3.jpg
 date: 2019-01-13T11:28:02.650Z
+description: Art & Contemplation
 author: Alice Bradshaw
 ---
 Winter can be a difficult time of year to feel motivated to do anything, let alone sit in a cold shed-studio making work. Some tactics I fall back on when feeling unmotivated and uninspired include doodling in my sketch pad (in the warmth of the house), reading and watching artists’ lectures on youtube. The idea of ‘productivity‘ as churning out work that is exhibition-ready is not sustainable and often counter-productive. I find that sometimes a quieter period of reflection, learning and ‘messing about’ is a better use of my time.
