@@ -2,12 +2,15 @@
 templateKey: blog-post
 title: JOURNEY TO THE CITY OF LOOS
 date: 2019-01-11T05:44:41.806Z
-image:
-description: If Bazalgette hadn’t given in to bricks!
+description: Poem
 tags:
   - poem loos
 author: Isabel White
 ---
+_If Bazalgette hadn’t given in to bricks!_
+
+~
+
 We would come to this place on high days and holidays;
 
 join the ponging throng
@@ -48,10 +51,6 @@ or be regaled by tales of jobbing plumbers
 
 with the squits…
 
- 
-
-
-
 For the hoi polloi, rows of cubicles stretched to the horizon
 
 and at intersections the brush boys,
@@ -68,8 +67,6 @@ given the clap he by now so richly deserved
 
 in celebration of such glorious sanitation.
 
- 
-
 The quacks, whose formulations to ease constipation
 
 or devices to fill crevices,
@@ -79,8 +76,6 @@ vied for the attention of those in a hurry
 to settle their scores with Montezuma
 
 (out for revenge as usual).
-
- 
 
 And a century on,
 
@@ -97,3 +92,7 @@ and the Friends of the City of Loos
 would charge me a penny, to sit in contemplation, broken-hearted
 
 and dream of gases now departed.
+
+
+
+From her collection [_Death and Remembrance_](https://www.alarmsandexcursions.com/publications/)__
