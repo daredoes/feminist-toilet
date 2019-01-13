@@ -6,3 +6,11 @@ description: Poem
 author: Andrew McMillan
 ---
 Read the poem on the [Forward Arts Foundation site](http://www.forwardartsfoundation.org/poetry/urination/).
+
+.
+
+.
+
+.
+
+__[_Return to Main Page_](https://feministtoilet.netlify.com/)__
