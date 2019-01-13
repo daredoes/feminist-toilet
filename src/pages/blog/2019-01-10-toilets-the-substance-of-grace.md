@@ -58,3 +58,11 @@ I should repay it and become a patron.
 But when I leave the restroom, I see a clear path to the door. 
 
 I hope that grace is real and stride through the entry, back into the rain.
+
+.
+
+.
+
+.
+
+__[_Return to Main Page_](https://feministtoilet.netlify.com/)__
