@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Karzy Camo
 image: /img/karzy-camo-.jpg
 date: 2019-01-13T16:45:27.097Z
-author: 'Harriet Hill '
+description: Art
+author: Harriet Hill
 ---
 .
