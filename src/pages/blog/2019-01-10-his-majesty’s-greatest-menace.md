@@ -19,10 +19,6 @@ He itched his breakfast-crusted beard, and sneezed,
 
 And a lump of steamy turd dropped out from his arse.
 
-
-
-
-
 The plop against the water turned the buzz
 
 Of the tiny fly circling in his orbit
@@ -50,3 +46,11 @@ Nor had it a word for him or he for it:
 It hadn’t come for royal favour, gold, or to supplant him,
 
 It only came for shit.
+
+.
+
+.
+
+.
+
+__[_Return to Main Page_](https://feministtoilet.netlify.com/)__
