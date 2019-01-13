@@ -85,6 +85,14 @@ no solace in loneliness, but maybe,
 
 tonight I’ll leave the toilet seat up!
 
+.
 
+.
 
-Copyright ©2002 by Leon D. Schlossberg. All rights reserved.
+Copyright ©2002 by Leon D. Schlossberg. All rights reserved..
+
+.
+
+.
+
+__[_Return to Main Page_](https://feministtoilet.netlify.com/)__
