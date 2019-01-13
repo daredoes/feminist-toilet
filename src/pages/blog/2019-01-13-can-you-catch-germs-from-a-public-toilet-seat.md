@@ -6,3 +6,11 @@ description: Academic Article
 author: Primrose Freestone
 ---
 Read the full article on [Literary Pixie](http://www.literarypixie.com/the-feminist-toilet/the-feminist-toilet-can-you-catch-germs-from-a-public-toilet-seat/)
+
+.
+
+.
+
+.
+
+__[_Return to Main Page_](https://feministtoilet.netlify.com/)__
