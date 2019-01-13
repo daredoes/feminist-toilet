@@ -8,10 +8,9 @@ tags:
   - love
 author: Mario Incandenza
 ---
-
 ###### i.
 
----
+- - -
 
 i asked her to cut off my finger
 
@@ -47,7 +46,7 @@ she cant or she wont
 
 ###### ii.
 
----
+- - -
 
 she did that stupid thing
 
@@ -90,3 +89,11 @@ reveals youth.
 which is why i cannot love.
 
 only be in love
+
+.
+
+.
+
+.
+
+__[_Return to Main Page_](https://feministtoilet.netlify.com/)__
