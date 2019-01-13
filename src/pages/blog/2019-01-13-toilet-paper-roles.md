@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Toilet Paper Roles
 date: 2019-01-13T20:56:14.910Z
 description: Poem
-author: ' Leon D. Schlossberg'
+author: ' Leon Schlossberg'
 ---
 She leaves empty toilet paper rolls,
 
@@ -25,8 +25,6 @@ or the bedroom floor,
 
 or on the bed.
 
-
-
 I endure the mental torture because
 
 an argument with her, unthinkable.
@@ -46,8 +44,6 @@ she would think of me sometimes,
 dying to please her but instead
 
 dying of anguished frustration.
-
-
 
 Love is an interesting phenomena
 
@@ -69,8 +65,6 @@ Suffers him to hold his tongue long after
 
 reason and patience have vanished.
 
-
-
 Small frustration upon frustration
 
 chipping away at order and sanity.
@@ -90,8 +84,6 @@ There can be no life without her,
 no solace in loneliness, but maybe,
 
 tonight I’ll leave the toilet seat up!
-
-
 
 
 
