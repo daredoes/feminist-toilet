@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Not a pristine thing in sight
 date: 2019-01-11T05:59:47.684Z
-image:
+description: Poem
 tags:
   - text
 author: Radhaika Kaipur
