@@ -93,6 +93,16 @@ would charge me a penny, to sit in contemplation, broken-hearted
 
 and dream of gases now departed.
 
+.
 
+.
 
 From her collection [_Death and Remembrance_](https://www.alarmsandexcursions.com/publications/)__
+
+.
+
+.
+
+.
+
+__[_Return to Main Page_](https://feministtoilet.netlify.com/)__
